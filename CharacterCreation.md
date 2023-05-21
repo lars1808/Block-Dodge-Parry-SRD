@@ -29,7 +29,7 @@ If desired, you can pick one of the following attributes, to play as a fantasy s
 - **Arcane** (elves, demons, etc.) - once per day, you can attempt to perform a minor magical feat related to your ancestry: Describe what you would like to happen. The Warden will decide who needs to make a WIL Save, if any.
 - **Cunning** (halflings, goblins, etc.) - once per day, you may reroll any saving throw.
 -	**Adaptable** (humans, half-humans, etc.) - once per day, you may choose to use one attribute for a check instead of another.
--	
+
 ## Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 

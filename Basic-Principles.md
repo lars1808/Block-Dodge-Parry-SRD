@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD
+title: Basic Principles
 nav_order: 2
 ---
 

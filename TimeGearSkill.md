@@ -12,6 +12,7 @@ Performing actions involves time, gear, and skill.
 
 ## Optional Rule: Attributes
 Attributes only play a role in determining Saves. As an optional rule, we can interpret ability scores as descriptors of Player Characters, and as possible substitutes for gear or skill:
+
 |Attribute|Value|Effect|
 |:---|:---|:---|
 |STR|6 or lower|Weak – Tasks requiring average strength might be more difficult.|

@@ -189,3 +189,95 @@ Be it as a pickpocket, charlatan, con man, footpad, or fraudster: you made ends 
 - *"How could I best obtain the key to the tower?"*
 
 **Skills**: *Acrobat, Alert, Distraction Master, Escape Artist, Friends in Low Places, Haggler, Lockpicker, Market Access, Night Sight, Pickpocket, Scrap Fighter, Skilled Climber, Subtle, Surveillance, Trap Master*
+
+Skills
+-------
+Listed below is the full Skill list from _Block, Dodge, Parry_. For the matching Careers, see the full version of _Block, Dodge, Parry_.
+
+You’ll find some skills marked with a star. These skills are more advanced, which can mean any of the following:
+-	They cannot be picked upon character creation.
+-	Not every character that has the corresponding career can teach you this.
+-	The skill is difficult to learn; requiring extensive time and dedication, or requiring you to study relevant easier skills first.
+-	The technique is lost, ancient or forbidden.
+
+|Skill|Description|
+|:----|:----|
+|Acrobat|You have a near-supernatural sense of balance.|
+|Alert|You are rarely surprised. Roll DEX for initiative with Advantage.|
+|Animal Attuned|You are good with animals: +1 on reaction rolls with animals & beasts.|
+|Animal Companion|You have a faithful pet: 2d6 for stats, 3 HP, d6 attack.|
+|Armor Expert|Any armor you wear loses the Bulky tag.|
+|Bloodlust|Killing or Critically Damaging an enemy gains you 1d3 HP.|
+|Bludgeoning Proficiency|You have damage-type proficiency with bludgeoning weapons.|
+|Brawler|Your unarmed strikes do d6 damage.|
+|Brutal Blows|When you deal 10 or more damage in a single attack, the target's attacks are Impaired in the next round.|
+|Bureaucrat|You know the local laws and rules, and how to bend them in your favor.|
+|Carouser|You know your way around taverns, and know how to gain information or make contacts.|
+|Cloak of Daggers|You have two daggers (d6) at hand. Always.|
+|Commander|Once per combat, issue a single command to an ally to Enhance their next attack, or to heal them for 1d6 HP.|
+|Companion|You have an assistant, bodyguard, or errand boy. Roll 3d6 for stats, 3 HP.|
+|Crafty|You know how to repair non-magical objects.|
+|Crippling Shot|You know how to hit to maim. When you make a Ranged Attack and your damage roll is in the upper half of the damage die results (i.e., 4-6 on a d6, 5-8 on a d8), the enemy’s next attack is Impaired, and humanoid-sized targets or smaller are unable to move during their turn.|
+|Defensive Posture|You know how to wield Fast or Balanced weapons in a defensive manner and gain +1 Armor when not using a shield or weapon in your other hand.|
+|Devotion|You gain +1 Faith Die, up to a total of 4.|
+|Distraction Master|When you make a big distracting ruckus, all attacks against you are Impaired.|
+|Elemental ★|Choose one element. You always have 3 Armor against it.|
+|Escape Artist|You can wriggle free from any restraints, even when it seems impossible, such as from chains or a noose.|
+|Fancy Footwork|Being unarmored gives you 1 Armor.|
+|Firm Grip|You can never be disarmed as long as you're conscious.|
+|Friends in High Places|You know how to gain access to society’s upper crust.|
+|Friends in Low Places|You know how to gain access to society’s lower rungs.|
+|Gifted|You gain +1 Magic Dice, to a maximum of 4.|
+|Haggler|You sell items for 10% more.|
+|Hard to Kill|Once per day, roll your save for Critical Damage with Advantage.|
+|Heightened Senses|You get a "weird feeling" when there's a secret passage Close to you.|
+|Impressive Skills|Winning an impressive victory, by defeating a tough foe for instance, you may call for onlookers to either reroll their Reaction Rolls with a +2 bonus, or their Morale Rolls with a -2 penalty.|
+|Inspiring|Allies automatically pass morale saves.|
+|Tunnel Vision ★|In combat, choose one humanoid opponent. Your attacks against them are Enhanced, and their attacks against you are Impaired. All other sources of damage against you are Enhanced.|
+|Lay On Hands|Once per day, cure someone of a disease, poison, or heal 1d6 STR.|
+|Learned|You’ve enjoyed a broad general education in a topic of choice, such as History, Politics, Biology, or Philosophy.|
+|Know Your Enemy ★|You have spent considerable time studying a particular foe. The more specific your foe, the better your boon: Against a broad category (humanoids, animals, dragons, undead, etc.), you deal +1 damage. Against a specific group (dwarves, elves, wizards, etc.) you roll an extra damage die. Against a particular individual (a dragon, a renowned duelist, a legendary battlemage) you can use your training for Enhanced attacks.|
+|Librarian|You are skilled at obtaining information from libraries.|
+|Lockpicker|You are skilled at picking locks|
+|Loremaster|If you don’t know a certain piece of knowledge, you know where to start searching.|
+|Lumberjack|You fell wooden objects with supremely efficient strikes.|
+|Magic-Sense ★|You can tell when arcane energies are at work, and where.|
+|Market Access|You know how to gain access to the full breadth of commerce in a location - legal and otherwise.|
+|Marksman|+1 damage with ranged weapons.|
+|Master of Disguise|You know how to acquire, apply and utilize a disguise.|
+|Mediator|+1 on reaction rolls with humanoids|
+|Merciless|When you inflict Critical Damage, the target loses a limb or is disemboweled. This immediately triggers a Morale Save upon enemies.|
+|Momentum Master|When you kill or Critically Damage an enemy, you can attack again.|
+|Mount Mastery|You can always keep any mount you’re riding calm and under control.|
+|Mounted Warrior|Attacks while mounted are Enhanced.|
+|Night Sight|Your eyes are well-attuned to the dark.|
+|Pickpocket|You know how to cut a purse.|
+|Piercing Proficiency|You have damage-type proficiency with piercing weapons|
+|Pocket Change|Be it through pity, sympathy, or entertaining passers-by, you know how to make people part with their coin. After a day of roaming city streets, make a WIL Save. On a success, gain 1d10 gp, on a failure, 1d4 gp.|
+|Poison Resistance|Sheer exposure has made you resistant to poison.|
+|Poisoner|You know how to make dangerous poisons.|
+|Protect|If allies are in the same melee as you, you can give up your Action to draw all attacks to yourself instead. Declare this at the start of a round.|
+|Provocateur|Whether through boasting or appealing to a sense of honor, you know how to goad someone into a duel. You can force those who understand you to make a WIL Save. If they fail, they’ll be compelled to duel you (if not already in combat), or focus attacks almost exclusively on you (if already in combat).|
+|Quick Draw|When using the specific weapon you trained this skill with, you always go first in Initiative - no need to roll a DEX Save.|
+|Rousing Words|Once per combat, you can use your Action to rouse an ally into rolling damage with Advantage on their turn.|
+|Savage Strikes|Make an Enhanced attack at the cost of 1 Fatigue.|
+|Scout|You know how to travel fast and unseen.|
+|Scrap Fighter|You can destroy one item you're carrying to ignore one instance of damage you're about to suffer, as long as you can explain how the item protects you.|
+|Sea Legs|You can man and repair small vessels on your own.|
+|Sensitive Nose|You can smell Undead creatures nearby.|
+|Showfighter|You have +1 armor and STR 18 if you have a large audience.|
+|Skilled Climber|You can climb near-impossible sheer surfaces.|
+|Slashing Proficiency|You have damage-type proficiency with slashing weapons.|
+|Smooth Talker|You can convince others to do things for you, within reason.|
+|Socialite|You can invite yourself to most parties, ceremonies, or similar functions.|
+|Subtle|Enemies tend to give you a low priority, if not outright ignore you.|
+|Surveillance|For each week you spend investigating a local powerful person, institution, or structure, you learn 1 dirty secret about it.|
+|Survival Expert|You know how to live off the land.|
+|Third Eye|You cannot be fooled by magical illusions.|
+|Tracker|You know how to track nearly any quarry through the wilds.|
+|Trap Master|You are skilled at disabling traps.|
+|Trooper|+1 damage when outnumbering an enemy in melee.|
+|True Strikes|For 1d4 WIL damage per attack, you can perform unarmed strikes that do 1d8 damage, ignore armor, and can strike ghosts.|
+|Wealthy ★|You have access to considerable funds.  +x starting wealth|
+|Well-traveled|You know the lay of the land, and know the way to any major settlements and points of interest. You have a 4-in-6 chance to know lesser-known locations, and a 2-in-6 chance to know of obscure locations (what qualifies as lesser-known and obscure is up to the Warden’s discretion).|
+|Words of Grace|Heal 1d6 to any ability, but become Deprived.|

@@ -2,7 +2,7 @@
 layout: default
 title: Time, Gear & Skill
 nav_order: 3
-permalink: /
+permalink: /time-gear-skill
 ---
 # Time, Gear & Skill
 Performing actions involves time, gear, and skill.

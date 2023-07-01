@@ -53,14 +53,14 @@ Generally, easy skills take about 1 week to learn, and more complex skills 6 wee
 There are various ways to implement the actual training:
 
 - Training only takes the predetermined amount of weeks. After x weeks, the PC is guaranteed to have learned the skill.
-- Use the number of weeks as a tracker for advancement. At the end of a week of training, make a WIL Save. On a success, mark 1 progression. *Example: a Skill that would take 3 weeks to learn, requires 3 succesful WIL Saves, each after a week of training.*
+- Use the number of weeks as a tracker for advancement. At the end of a week of training, make a WIL Save. On a success, mark 1 progression. *Example: a Skill that would take 3 weeks to learn, requires 3 successful WIL Saves, each after a week of training.*
 
 If you'd rather keep Saves as Saves and not as skill checks, consider using a 2d6 roll after each week of training.
 
 - On a 6 or less, you do not progress in your training.
 - On a 7-9, you make 1 step of progress.
-- On a 10+, you make 1 step of progress, and treat the next 2d6 roll as an automatic step of progress as well.
-- This also allows for implementation of *modifiers*. If the skill you're trying to learn is unlike anything you've done before, gain a -1 on your roll. If your trainer is particularly skilled, gain +1 or even +2. The Warden is encouraged to come up with further relevant negative and positive modifiers!
+- On a 10+, you make 1 step of progress and treat the next 2d6 roll as an automatic step of progress as well.
+- This also allows for the implementation of *modifiers*. If the skill you're trying to learn is unlike anything you've done before, gain a -1 on your roll. If your trainer is particularly skilled, gain +1 or even +2. The Warden is encouraged to come up with further relevant negative and positive modifiers!
 
 ### Skills & NPCs
 
@@ -86,6 +86,12 @@ Anyone with notably more combat experience than a PC can give **general combat t
 - Veterans and expert trainers can give *advanced combat training* which takes 4 weeks and costs 75 gold per week, after which the PC can roll **2d6** for their new HP. If the roll is lower than your current HP, ignore the roll and increase your max HP by 1. Taking this training requires a base HP of 6.
 
 - Legendary heroes and champions can give training that allows the PC to roll **3d6** for their new HP. If the roll is lower than your current HP, ignore the roll and increase your max HP by 1. Taking this training requires a base HP of 9.
+
+### Optional Rule: Milestones
+
+When a character completes a significant milestone involving combat, such as partaking in a big battle or contributing to the downfall of a dangerous foe, have them roll for their HP as per **general combat training**.
+
+If their Max HP is lower than 6, roll 1d6 for your HP, or simply add 1. If their Max HP is between 6 and 8, roll 2d6 and take the result, or add 1. If their HP is 9 or higher, roll 3d6, or add 1.
 
 Increasing Your Attributes
 --------------------------

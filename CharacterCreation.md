@@ -31,13 +31,15 @@ If desired, you can pick one of the following attributes, to play as a fantasy s
 -	**Adaptable** (humans, half-humans, etc.) - once per day, you may choose to use one attribute for a check instead of another.
 
 ## Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+Characters have a total of **10 inventory slots**. Items in your inventory can be divided into 2 categories: **equipped** and **stored**. Weapons and armor are equipped if they are in use; your sword is either in your hand, or in its scabbard on your back or side. Any equipment that is **stored** is assumed to be in your **backpack**. The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged at the Warden’s discretion.
+In an **emergency**, such as sudden combat, you can **drop your backpack**, thus 'clearing' your inventory of all **stored** items, granting you access to more empty inventory slots -- and allowing you to use more abilities that generate **Fatigue** (such as blocking, dodging and magic). Beware, however, that this means that all previously stored items are now left on the spot, up for grabs by your enemies. Dropping your backpack during a chase, for instance, means you lose your items!
 
-Bulky items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+Most items take up **one slot**, and small items can be bundled together. Slots are abstract and can be rearranged at the Warden's discretion.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. Hirelings can also be paid to carry equipment. 
+**Bulky items** take up **two slots** and are typically two-handed or awkward to carry. Anyone **carrying a full inventory (e.g. filling all 10 slots)** is reduced to **0 HP**.
+
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
 
 ## Weapons
 Your character can pick up any weapon and use it to hurt others - it’s not hard to apply the pointy end to your enemy’s soft bits. Making full use of a weapon’s capabilities requires dedication and training (see the Weapons section for more).

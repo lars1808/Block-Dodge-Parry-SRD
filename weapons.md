@@ -48,6 +48,14 @@ To use the weapon tag (**Brutal**, **Sweep**, etc.) of an individual weapon, you
 
 When picking up a different weapon with the same tag (i.e., a Longsword and Scimitar both have Sweep), you’ll still need to gain Weapon Skill Proficiency.
 
+## Breaking Point
+
+When the chips are down, you can sacrifice your equipment. Performing an offensive or defensive action requires either desperation or complete dedication. You either need to **be at 0 HP** already, or choose to lower your defense and **'drop' to 0 HP voluntarily**.
+
+- **Offensive**: Sacrifice your **weapon** to **Enhance** your attack. Your weapon is broken afterwards - useless unless repaired. Repairing costs are 75% of new cost. This can be done with all weapon types.
+
+- **Defensive**: Sacrifice your **weapon**, **shield** or **Armor** to **ignore** an incoming blow. This destroys the equipment - useless unless repaired. Repairing costs are 75% of new cost, but shields are always broken when sacrificed and cannot be repaired. **Mundane attacks** (weapons, claws, teeth etc.) can be stopped with **balanced-** and **heavy weapons, shields,** and **light (+1)** and **heavy armor (+2)**. **Special attacks** (magic, elemental energy etc.) can only be stopped with **heavy armor (+2)** and **shields**.
+
 ## Weapon List
 Stars (★) indicate a weapon’s rarity. This indicates how rare it is to find such a weapon during your adventures, and is an indicator of price.
 

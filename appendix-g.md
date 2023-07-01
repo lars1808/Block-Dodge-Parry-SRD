@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Appendix G - Dueling
+title: Appendix G - Age & Experience
 parent: Appendices
 nav_order: 7
 ---

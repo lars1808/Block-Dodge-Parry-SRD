@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Block, Dodge, Parry, Version 1.3 SRD
+# Block, Dodge, Parry, Version 1.31 SRD
 
 ## License
 Block, Dodge, Parry is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

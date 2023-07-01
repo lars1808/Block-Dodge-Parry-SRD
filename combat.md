@@ -184,6 +184,32 @@ If their **WIL** is reduced to 0, they are delirious.
 
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
+## Wounds
+
+Adventuring is a dangerous profession. A way to reflect that is to use these rules for wounds. Wounds can come from a variety of sources:
+
+- Fire (such as from a burning building or a dragon's breath) can inflict **burns**.
+
+- Electricity (such as from magic or an ancient contraption) can inflict **nerve damage**.
+
+- Cold (such as from weather or magic) can inflict **frostbite**.
+
+- Poison can inflict, well, **poisoning**.
+
+Some creatures might inflict wounds when dealing **Critical Damage**, or on special attacks. Wounds can also be gained as a cost of player action (storming into a burning tavern to save one's treasure, for instance, might inflict burns).
+
+A wound occupies a **slot** in your **inventory**. The type of wound is mechanically just flavoring, while in fiction a character with burns might have nasty blisters.
+
+Wounds come in 3 levels. Whenever a wound of the same type is gained, the player can choose to have their existing wound increase in severity or to fill in a new slot in their Inventory. This allows player choice between short- or long-term impact: do you suffer another mild wound and heal after combat, or stack up to possibly permanent injury?
+
+- **Light wounds** can be healed in the field, given that proper medicine and treatment is available. Light burns can be healed by gathering the right herbs and applying them overnight, for instance.
+
+- **Severe wounds** require serious medical attention, probably between adventures. Severe frostbite could be cured with a comfortable week-long rest in a healing temple.
+
+- **Permanent wounds** are just that, permanent. They can never be healed. Every permanent wound also lowers a fitting Attribute by -1 (For instance, WIL for nerve damage). While this -1 penalty can be overcome in time by training, the wounds' Inventory slot is forever lost.
+
+Wounds are intended to, once again, provide a **prompt for adventure**; curing them can tie into the Complex Tasks system, for instance!
+
 ## Retreat
 Some battles cannot be won - and running away should always be a viable option. Just like in base _Cairn_, a successful **DEX Save** allows one to run away from a dangerous situation, as long as there is a safe place to run to.
 

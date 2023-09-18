@@ -19,6 +19,7 @@ Weapons can be **fast**, **balanced** or **slow**:
 -	**Fast**. These weapons strike fast but do not do a lot of damage. They all share a **d6 damage dice**. 
 -	**Balanced**. These weapons are well-balanced between speed and weight. They all share a **d8 damage dice**.
 -	**Slow**. These weapons are somewhat slower but pack a punch. They all share a **d10 damage dice**.
+-	Weapons marked with **Reach** always go first when engaging from a distance, and last when already in Close combat.
 
 ## Weapon Skills
 
@@ -70,13 +71,13 @@ Stars (★) indicate a weapon’s rarity. This indicates how rare it is to find 
 |Ceremonial Dagger|D6 (Fast)|Bleed (5)|★★ (10 gold)|
 |Parrying Dagger|D6 (Fast)|Counter (1)|★★ (10 gold)|
 |Rapier|D8 (Balanced)|Counter (2)|★★ (15 gold)|
-|Spear|D8 (Balanced)|Push (6)|★ (10 gold)|
+|Spear|D8 (Balanced)|Reach, Push (6)|★ (10 gold)|
 |War Pick|D8 (Balanced)|Bleed (7)|★★ (15 gold)|
-|Boar-Hunting Spear|D10 (Slow)|Bulky, Push (7)|★★★ (40 gold)|
+|Boar-Hunting Spear|D10 (Slow)|Reach, Bulky, Push (7)|★★★ (40 gold)|
 |Bludgeoning Weapons – Always ignores 1 Armor|
 |Cudgel|D6 (Fast)|-|★ (5 gold)|
-|Simple Staff|D6 (Fast)|-|★★ (5 gold)|
-|Sage’s Staff|D6 (Fast)|Shock (6)|★ (10 gold)|
+|Simple Staff|D6 (Fast)|Reach|★★ (5 gold)|
+|Sage’s Staff|D6 (Fast)|Reach, Shock (6)|★ (10 gold)|
 |Flail|D8 (Balanced)|Shock (5)|★★★ (30 gold)|
 |Mace|D8 (Balanced)|Shock (8)|★★ (15 gold)|
 |Spiked Mace|D8 (Balanced)|Shock (6)|★★★ (30 gold)|

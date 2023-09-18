@@ -24,7 +24,7 @@ Weapons can be **fast**, **balanced** or **slow**:
 
 -	**Heavy X:** Ignore X points of ARMOR, but DAMAGE rolls of X or lower completely miss.
 -	**Sweep X:** DAMAGE rolls of X or higher grant one bonus attack on another target in reach. You can’t chain this effect for multiple bonus attacks.
--	**Reach X:** When charged with a weapon shorter than yours when fighting back, the attacker must roll X or higher on their DAMAGE roll or else you get to attack them first. Weapons with Reach also allow you to attack before weapons that would usually be quicker in a _clash_.
+-	**Push X:** DAMAGE rolls of X or higher push the target back from Close to Nearby, meaning that longer weapons keep their advantage in the next clash.
 -	**Counter X:** DAMAGE rolls of X or less against you are bounced back against your attacker.
 -	**Brutal X:** CRITICAL DAMAGE resulting from a DAMAGE roll of X or more from this weapon is an instant kill, and forces a morale SAVE on the enemy.
 -	**Shock X:** Damage rolls of X or higher trigger a STR Save - on a failure, the target loses its next turn.
@@ -70,13 +70,13 @@ Stars (★) indicate a weapon’s rarity. This indicates how rare it is to find 
 |Ceremonial Dagger|D6 (Fast)|Bleed (5)|★★ (10 gold)|
 |Parrying Dagger|D6 (Fast)|Counter (1)|★★ (10 gold)|
 |Rapier|D8 (Balanced)|Counter (2)|★★ (15 gold)|
-|Spear|D8 (Balanced)|Reach (3)|★ (10 gold)|
+|Spear|D8 (Balanced)|Push (6)|★ (10 gold)|
 |War Pick|D8 (Balanced)|Bleed (7)|★★ (15 gold)|
-|Boar-Hunting Spear|D10 (Slow)|Bulky, Reach (4)|★★★ (40 gold)|
+|Boar-Hunting Spear|D10 (Slow)|Bulky, Push (7)|★★★ (40 gold)|
 |Bludgeoning Weapons – Always ignores 1 Armor|
 |Cudgel|D6 (Fast)|-|★ (5 gold)|
-|Simple Staff|D6 (Fast)|Reach (2)|★★ (5 gold)|
-|Sage’s Staff|D6 (Fast)|Reach (3)|★ (10 gold)|
+|Simple Staff|D6 (Fast)|-|★★ (5 gold)|
+|Sage’s Staff|D6 (Fast)|Shock (6)|★ (10 gold)|
 |Flail|D8 (Balanced)|Shock (5)|★★★ (30 gold)|
 |Mace|D8 (Balanced)|Shock (8)|★★ (15 gold)|
 |Spiked Mace|D8 (Balanced)|Shock (6)|★★★ (30 gold)|
@@ -89,6 +89,6 @@ Stars (★) indicate a weapon’s rarity. This indicates how rare it is to find 
 |Scimitar|D8 (Balanced)|Sweep (6)|★★★ (15 gold)|
 |Executioner’s Axe|D8 (Balanced)|Brutal (5)|★★★ (30 gold)|
 |Flamberge|D8 (Balanced)|Bleed (6)|★ (30 gold)|
-|Halberd|D8 (Balanced)|Bulky, Reach (3), Sweep (8)|★★ (30 gold)|
+|Halberd|D8 (Balanced)|Bulky, Sweep (8)|★★ (30 gold)|
 |Greataxe|D10 (Slow)|Bulky, Heavy (2)|★★ (20 gold)|
 |Greatsword|D10 (Slow)|Bulky, Sweep (6)|★★ (20 gold)|

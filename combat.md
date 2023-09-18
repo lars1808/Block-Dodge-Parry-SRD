@@ -95,8 +95,8 @@ Before damage is rolled, a Player Character under attack has **4 options**:
 - **Block**. Any incoming **Fast** or **Balanced** attacks become **Impaired**. Blocking gives you **1 Fatigue**.
 - **Dodge**. Any incoming **Slow** or **Balanced** attacks become **Impaired**. Dodging gives you **1 Fatigue**.
 - **Parry**. Choose one attacking opponent that you can attack in return:
--- If you roll **higher** attack damage than they do, their dice roll is invaliated, and you deal your damage straight to their STR. 
--- If the **opponent rolls higher**, the damage is dealt to your STR instead.
+-- If you roll **higher** attack damage than they do, their dice roll is invalidated, and you deal your damage straight to their STR. This does not trigger a Critical Damage Save.
+-- If the **opponent rolls higher**, the damage is dealt to your STR instead. This does not trigger a Critical Damage Save.
 -- If the **two rolls are equal**, both weapons bounce off each other with a satisfying twing! and a rain of sparks. No damage is done to either party.
 
 Each of these options is essentially a reaction – they happen in the split-second in which a PC is attacked. Some enemies might also have access to these abilities! Note that an attacking creature cannot take a reaction; if an orc blademaster strikes at a PC and the PC fights back, the orc cannot block or take similar reactions, as that could create an infinite chain of reactions.

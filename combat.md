@@ -131,11 +131,14 @@ If attacking with two weapons at the same time, roll **both damage dice** and ke
 If both weapons have different lengths for the purposes of melee clashes, one of which would allow the user to go before the target and one of which would usually require a DEX Save (or go after the target altogether), the user can choose to either strike only with the quicker weapon, or wait and strike with both.
 
 ## Gambits
-When making an attack, you can choose to make a **gambit**. A gambit is a move such as **stunning**, **shoving**, **disarming**, **tripping**, and so forth. Declare that you make a gambit as you declare your attack. 
+When making an attack, you can choose to make a **gambit**. A gambit is a move such as **stunning**, **shoving**, **disarming**, **tripping**, and so forth. Declare that you make a gambit as you declare your attack. When making a Gambit, you **do not deal damage**. 
 
-When making a Gambit, you **do not deal damage**. Instead, you roll a **d6**, which is used as the **difficulty** of the **Save** made by the target. The type of Save is determined together with the Warden, and the target must roll **equal to or under their Attribute** but also **above the d6 difficulty roll**.
+1. Roll your Weapon Damage Dice. If you are dual-wielding, roll both, and take the highest value. 
+2. If your roll is 1, 2, or 3, use this value as the Difficulty of the enemy’s Save. If your roll is 4 or higher, no Difficulty is applied. 
+3. The type of Save is determined together with the Warden, and the target must roll equal to or under their Attribute but also above the Difficulty. 
+4. If the target fails their Save, the gambit succeeds.  
+5. If they succeed, they may immediately make an attack back.
 
-If the target fails their Save, the gambit succeeds. If they succeed, they may immediately make an attack back.
 
 Gambits cannot be blocked, dodged, or parried. If multiple attackers attack a single target and one or more attackers choose to perform a gambit, resolve those before checking who rolled the highest damage.
 

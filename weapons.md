@@ -25,7 +25,7 @@ Weapons can be **fast**, **balanced** or **slow**:
 
 -	**Heavy X:** Ignore X points of ARMOR, but DAMAGE rolls of X or lower completely miss.
 -	**Sweep X:** DAMAGE rolls of X or higher grant one bonus attack on another target in reach. You can’t chain this effect for multiple bonus attacks.
--	**Push X:** DAMAGE rolls of X or higher push the target back from Close to Nearby, meaning that longer weapons keep their advantage in the next clash.
+-	**Push X:** DAMAGE rolls of X or higher push the target back from Close to Nearby, preventing approach and allowing longer weapons to keep their advantage in the next clash.
 -	**Counter X:** DAMAGE rolls of X or less against you are bounced back against your attacker.
 -	**Brutal X:** CRITICAL DAMAGE resulting from a DAMAGE roll of X or more from this weapon is an instant kill, and forces a morale SAVE on the enemy.
 -	**Shock X:** Damage rolls of X or higher trigger a STR Save - on a failure, the target loses its next turn.

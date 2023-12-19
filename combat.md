@@ -128,7 +128,7 @@ If fighting from a position of **advantage** (such as against a helpless foe or 
 ## Dual Weapons
 If attacking with two weapons at the same time, roll **both damage dice** and keep the single highest result. 
 
-If both weapons have different lengths for the purposes of melee clashes, one of which would allow the user to go before the target and one of which would usually require a DEX Save (or go after the target altogether), the user can choose to either strike only with the quicker weapon, or wait and strike with both.
+If both weapons have different lengths for melee clashes, one of which would allow the user to go before the target and one of which would usually require a DEX Save (or go after the target altogether), the user can choose to either strike only with the quicker weapon, or wait and strike with both.
 
 ## Gambits
 When making an attack, you can choose to make a **gambit**. A gambit is a move such as **stunning**, **shoving**, **disarming**, **tripping**, and so forth. Declare that you make a gambit as you declare your attack. When making a Gambit, you **do not deal damage**. 

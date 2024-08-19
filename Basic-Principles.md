@@ -4,6 +4,8 @@ title: Basic Principles
 nav_order: 2
 ---
 
+> The main version of Block, Dodge, Parry is currently in [release 2.0](https://dicegoblin.blog/out-now-block-dodge-parry-v2-0/). This SRD still reflects version 1.32, and will be updated - in time. My primary focus is perfecting and supporting the full release. Curious? Check it out on [itch.io](https://dicegoblingames.itch.io/block-dodge-parry) and [DriveThruRPG](https://www.drivethrurpg.com/product/425888/Block-Dodge-Parry--A-Levelless-Classless-Expansion-of-Cairn)!
+
 # Basic Principles
 ## Neutrality
 The Warden’s role is to portray the rules, situations, NPCs, and narrative clearly while acting as a neutral arbiter.

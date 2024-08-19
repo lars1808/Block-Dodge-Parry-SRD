@@ -4,6 +4,9 @@ title: Social Conflict
 nav_order: 6
 permalink: /social-conflict
 ---
+
+> The main version of Block, Dodge, Parry is currently in [release 2.0](https://dicegoblin.blog/out-now-block-dodge-parry-v2-0/). This SRD still reflects version 1.32, and will be updated - in time. My primary focus is perfecting and supporting the full release. Curious? Check it out on [itch.io](https://dicegoblingames.itch.io/block-dodge-parry) and [DriveThruRPG](https://www.drivethrurpg.com/product/425888/Block-Dodge-Parry--A-Levelless-Classless-Expansion-of-Cairn)!
+
 # Social Conflict
 
 Not all matters are settled with violence. If interests between the players and NPCs are strictly opposed and violence is not desirable, off the table, or just rude, the first step is, of course, talking it out. To prevent negotiations from boiling down to a matter of opinion (with players and Warden both feeling like their side of the story is ‘correct’), you can use the following system.

@@ -8,3 +8,5 @@ The following text contains the 'bare' version of Block, Dodge, Parry, reduced t
 If you'd like to support the continuous development of Block, Dodge, Parry, and gain access to all the additional explanations, commentary and examples of the illustrated full version, you can find it on
 - [DriveThruRPG](https://www.drivethrurpg.com/product/425888/Block-Dodge-Parry--A-Levelless-Classless-Expansion-of-Cairn)
 - [Itch.io](https://dicegoblingames.itch.io/block-dodge-parry)
+## Block, Dodge, Parry version 2.0
+The main version of Block, Dodge, Parry is currently in [release 2.0](https://dicegoblin.blog/out-now-block-dodge-parry-v2-0/). The SRD still reflects version 1.32, and will be updated - in time. My primary focus is perfecting the full release.

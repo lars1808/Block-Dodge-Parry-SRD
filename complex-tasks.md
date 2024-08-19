@@ -4,6 +4,9 @@ title: Complex Tasks
 nav_order: 5
 permalink: /complex-tasks
 ---
+
+> The main version of Block, Dodge, Parry is currently in [release 2.0](https://dicegoblin.blog/out-now-block-dodge-parry-v2-0/). This SRD still reflects version 1.32, and will be updated - in time. My primary focus is perfecting and supporting the full release. Curious? Check it out on [itch.io](https://dicegoblingames.itch.io/block-dodge-parry) and [DriveThruRPG](https://www.drivethrurpg.com/product/425888/Block-Dodge-Parry--A-Levelless-Classless-Expansion-of-Cairn)!
+
 # Complex Tasks
 To resolve events directly happening to Player Characters, they roll Saves. For simple events that Player Characters elect to do, use Time, Gear and Skill. The following rules provide a system to deal with complex tasks that inherently take Time and do not necessarily require Skill. The full version of _Block, Dodge, Parry_ gives more examples and context to these rules.
 
